@@ -4,12 +4,12 @@
     <description>
         Agenda APP para capturar los datos de las personas....
     </description>
-    <author email="ktgrafico27@gmail.com" href="http://camaleoncreativo.com">
+    <author email="ktgrafico27@gmail.com" href="http://phonegap.com">
         Catherine Ramirez
     </author>
     <content src="index.html" />
     <access origin="http://especialistasenlaweb.com" />
-    <plugin name="cordova-plugin-whitelist" source="npm">
-    	<allow-navigation href="*">
+    <plugin name="cordova-plugin-whitelist" source="npm"/>
+    	<allow-navigation href="*"/>
     	<allow-intent href="*"/>
 </widget>
